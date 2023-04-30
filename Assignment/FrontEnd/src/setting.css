@@ -54,7 +54,7 @@ html,body
     min-width: 70px;
     min-height: 70px;
 }
-#profile_icon{background-image: url("../images/pig.png");}
+#profile_icon{background-image: url("../images/change-profile.png");}
 #birthday_icon{background-image: url("../images/birthday.png");}
 #major_icon{background-image: url("../images/software.png");}
 #contact_icon{background-image: url("../images/message.png");}
